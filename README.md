@@ -7,3 +7,5 @@
 <a href="https://asciinema.org/a/pzI8EAUEnw2EHDCJmiAX7yMpJ" target="_blank"><img src="https://asciinema.org/a/pzI8EAUEnw2EHDCJmiAX7yMpJ.svg" /></a>
 <p>Game GCD: </p>
 <a href="https://asciinema.org/a/ZLaMYf3YYzKyGIPSGExf8PTJe" target="_blank"><img src="https://asciinema.org/a/ZLaMYf3YYzKyGIPSGExf8PTJe.svg" /></a>
+<p>Game Progression: </p>
+<a href="https://asciinema.org/a/S34xtrnCu9wCNTE7nFBSKUXRZ" target="_blank"><img src="https://asciinema.org/a/S34xtrnCu9wCNTE7nFBSKUXRZ.svg" /></a>
