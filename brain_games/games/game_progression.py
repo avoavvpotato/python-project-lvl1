@@ -11,7 +11,7 @@ def game_progression():
     index = randrange(10)
     v = f"{' '.join(str(w) for w in array[:index])} .. {' '.join(str(w) for w in array[index+1:])}"
     real_answer = array[index]
-    print(v)
+    print(f'Question: {v}')
     get_answer = prompt.string(f'Your answer: ')
     return str(real_answer), get_answer
 
