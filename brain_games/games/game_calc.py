@@ -18,7 +18,7 @@ def game_calc():
     random_num = random.choice(ops_array)
     real_answer = ops[random_num](value_1, value_2)
     print(f'Question: {value_1} {random_num} {value_2}')
-    get_answer = prompt.string(f'Your answer: ')
+    get_answer = prompt.string('Your answer: ')
     return str(real_answer), get_answer
 
 

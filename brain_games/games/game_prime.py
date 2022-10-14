@@ -5,14 +5,14 @@ from random import randrange
 
 
 def is_prime(n):
-  if n == 2:
+    if n == 2:
+        return True
+    if n == 1:
+        return False
+    for i in range(2, n):
+        if (n % i) == 0:
+            return False
     return True
-  if n == 1:
-    return False
-  for i in range(2, n):
-    if (n % i) == 0:
-      return False
-  return True
 
 
 def game_prime():
@@ -22,7 +22,7 @@ def game_prime():
     else:
         real_answer = 'no'
     print(f'Question: {value_1}')
-    get_answer = prompt.string(f'Your answer: ')
+    get_answer = prompt.string('Your answer: ')
     return real_answer, get_answer
 
 
